@@ -1,0 +1,21 @@
+*Motoryzacja
+Płyn do spryskiwaczy
+litry
+3.5
+*Zabawa
+Piłka
+sztuki
+3.0
+*Spożywcze
+Chleb
+kilogramy
+1.5
+Mleko
+litry
+2.0
+Masło
+kilogramy
+0.355
+Sok
+litry
+3.5
